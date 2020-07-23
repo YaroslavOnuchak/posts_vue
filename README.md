@@ -1,7 +1,7 @@
 # posts_vue 
 
 ## demo: https://postsvue.web.app/
-for test try email: Sincere@april.biz ,\ or another from
+for test try email: Sincere@april.biz , or another from
 https://jsonplaceholder.typicode.com/users
 
 
