@@ -1,6 +1,11 @@
 <template>
   <form @submit.prevent="onSubmit">
-    <input type="email" placeholder="enter Email" v-model="emailVal" />
+    <input
+      type="email"
+      placeholder="enter Email for ex Sincere@april.biz"
+      v-model="emailVal"
+      value ="Sincere@april.biz"
+    />
     <button type="submit" id="btn_log">log in</button>
     <p class="warning" v-if="togle">can't find Email</p>
   </form>
@@ -14,7 +19,7 @@ export default {
         logSuccessful: false,
         userId: "",
       },
-      emailVal: "",
+      emailVal: "Sincere@april.biz",
       togle: "",
     };
   },
