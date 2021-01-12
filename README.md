@@ -2,7 +2,7 @@
 
 ## demo: https://postsvue.web.app/
 for test try email: Sincere@april.biz , or another from
-https://jsonplaceholder.typicode.com/users
+https://jsonplaceholder.typicode.com/users, with Vuex, axios
 
 
 ## Project setup
