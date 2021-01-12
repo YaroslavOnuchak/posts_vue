@@ -23,7 +23,7 @@
     <span>phone :</span>
     <span>{{getUser.phone}}</span>
     <span>website :</span>
-    <span>{{getUser.website}}</span>
+    <span> <a href="http://{getUser.website}">{{getUser.website}}</a></span>
   </div>
 </template>
 
